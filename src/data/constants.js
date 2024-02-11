@@ -539,7 +539,7 @@ export const projects = [
     tags: ["Pytorch", "Transfer learning", "efficientNet", "deepdream"],
     //category: "web app",
     github: "https://github.com/AbhinavJangra29/deepdream",
-    webapp: "",
+    webapp: "https://huggingface.co/spaces/sundarpalpehlwan/deepdream",
   },
   {
     id: 7,
