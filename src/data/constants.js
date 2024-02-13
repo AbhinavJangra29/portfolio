@@ -448,7 +448,7 @@ export const projects = [
     ],
     //category: "web app",
     github: "https://github.com/AbhinavJangra29/GANS",
-    //webapp: "https://vexa-app.netlify.app/",
+    webapp: "https://huggingface.co/spaces/mlgawd/progressive-GAN",
   },
   {
     id: 2,
